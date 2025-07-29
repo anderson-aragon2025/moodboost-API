@@ -113,4 +113,4 @@ https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/instal
 ## ✍ Autores
 
 Desarrollado por Anderson Steven Aragón Cartagena.
-Desarrollado por Rocío de los Angeles Henriquez Campos.
+y Rocío de los Angeles Henriquez Campos.
