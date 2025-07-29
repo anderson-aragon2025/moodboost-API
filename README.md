@@ -4,7 +4,7 @@ MoodBoost API es una API desarrollada en **Flask** que analiza el sentimiento de
 
 ## 📦 Características
 - 🔹 Análisis de sentimiento usando **TextBlob**.
-- 🔹 Clasificación en 5 estados: `alegre`, `neutro`, `triste`.
+- 🔹 Clasificación en 3 estados: `alegre`, `neutro`, `triste`.
 - 🔹 Devuelve una frase motivadora personalizada según la emoción.
 - 🔹 Compatible con **Cloudflare Tunnel** para exponer tu API a internet de forma segura.
 
