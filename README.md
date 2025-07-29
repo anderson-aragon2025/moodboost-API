@@ -60,14 +60,6 @@ Ejemplo:
 https://mi-tunel.trycloudflare.com/analizar
 ```
 
----
-
-## 🧠 Frases motivadoras
-
-Esta API también responde con frases de aliento y citas célebres basadas en el estado emocional detectado.
-
----
-
 ## ✍ Autores
 
 Desarrollado por Anderson Steven Aragón Cartagena.
