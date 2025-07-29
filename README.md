@@ -76,7 +76,7 @@ http://127.0.0.1:5000
 
 4. Haz clic en Send y verás la emoción detectada y la frase motivadora.
 
-🌐 Subir la API a la nube con Cloudflare Tunnel
+## 🌐 Subir la API a la nube con Cloudflare Tunnel
 
 1. Instala cloudflared desde:
 https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/install-and-setup/installation
@@ -90,7 +90,7 @@ https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/instal
 4. Tu endpoint ahora será accesible desde cualquier lugar:
    https://mi-tunel.trycloudflare.com/analizar
 
-🖥️ Pruebas con ToolJet
+## 🖥️ Pruebas con ToolJet
 
 1. Crea una nueva aplicación en ToolJet.
 
